@@ -1,5 +1,9 @@
 123,wo shi wo
 hello
 world
+<<<<<<< HEAD
 在桂子分支上编辑
 在桂子分支上修改
+=======
+fenzhi,guizi 来编辑
+>>>>>>> master
